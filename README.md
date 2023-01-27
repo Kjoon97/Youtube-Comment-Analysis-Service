@@ -17,9 +17,12 @@
 
 ## 시스템 구성도
 ![설계도](https://user-images.githubusercontent.com/70521476/178016709-08b950eb-2e52-4e76-ba66-d745f6f3e978.png)
-
 <br>
 
+## ERD
+![neatube-erd](https://user-images.githubusercontent.com/70521476/215026823-fc50a4f6-2ea0-40e1-80d4-8bc7d8b65700.png)
+
+<br>
 ## 기술 스택
 ### Framework
 <div> 
