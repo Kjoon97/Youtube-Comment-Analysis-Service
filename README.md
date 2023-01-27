@@ -11,16 +11,17 @@
 
 
 ## 시스템 시나리오
-![시스템 시나리오](https://user-images.githubusercontent.com/70521476/178017335-996e0549-9656-4cd8-8e37-37595bbffa71.png)
+<image src= "https://user-images.githubusercontent.com/70521476/178017335-996e0549-9656-4cd8-8e37-37595bbffa71.png" width="800">
 
 <br>
 
 ## 시스템 구성도
-![설계도](https://user-images.githubusercontent.com/70521476/178016709-08b950eb-2e52-4e76-ba66-d745f6f3e978.png)
+<image src= "https://user-images.githubusercontent.com/70521476/178016709-08b950eb-2e52-4e76-ba66-d745f6f3e978.png" width="800">
 <br>
 
-## ERD
-![neatube-erd](https://user-images.githubusercontent.com/70521476/215026823-fc50a4f6-2ea0-40e1-80d4-8bc7d8b65700.png)
+## ERD 
+<image src= "https://user-images.githubusercontent.com/70521476/215026823-fc50a4f6-2ea0-40e1-80d4-8bc7d8b65700.png" width="800">
+
 <br><br>
 
 ## 기술 스택
@@ -31,8 +32,6 @@
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </div>
 
-<br>
-
 ### Language
 <div>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -40,20 +39,20 @@
 <img src ="https://img.shields.io/badge/thymeleaf-006400?&style=for-the-badge&logo=thymeleaf&logoColor=white"/>
 </div>
 
-<br>
-
 ### RDBMS
 <div> 
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white">
 </div>
-
-<br>
 
 ### DevOps
 <div> 
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 </div>
+
+<br>
+
+## 실행 화면
 
 <br>
 
